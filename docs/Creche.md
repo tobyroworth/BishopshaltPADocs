@@ -2,7 +2,7 @@
 
 *A full history of the crèche feed is available from PA team members serving since about 2015. You do not want to hear this, it is a tale of great pain.*
 
-An audio signal is sent through to the classroom off the corridor adjacent to the hall so that parents with young can enjor the service in a more suitable environment.
+An audio signal is sent through to the classroom off the corridor adjacent to the hall so that parents with young can enjoy the service in a more suitable environment.
 
 ## Signal Flow
 
