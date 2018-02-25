@@ -8,16 +8,16 @@ A team member who *works* in electronics actually learned the resistor codes by 
 
 ## The Colours
 
-- ![#000000](https://placehold.it/15/000000/000000?text=+) black `0`
-- ![#8B4513](https://placehold.it/15/8B4513/000000?text=+) brown `1`
-- ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) red `2`
-- ![#ffa500](https://placehold.it/15/ffa500/000000?text=+) orange `3`
-- ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) yellow `4`
-- ![#66ff66](https://placehold.it/15/33ff33/000000?text=+) green `5`
-- ![#0000ff](https://placehold.it/15/0000ff/000000?text=+) blue `6`
-- ![#ff00ff](https://placehold.it/15/ff00ff/000000?text=+) purple `7`
-- ![#888888](https://placehold.it/15/888888/000000?text=+) grey `8`
-- ![#ffffff](https://placehold.it/15/ffffff/000000?text=+) white `9`
+- ![black](/images/colours/black.png) black `0`
+- ![brown](/images/colours/brown.png) brown `1`
+- ![red](/images/colours/red.png) red `2`
+- ![orange](/images/colours/orange.png) orange `3`
+- ![yellow](/images/colours/yellow.png) yellow `4`
+- ![green](/images/colours/green.png) green `5`
+- ![blue](/images/colours/blue.png) blue `6`
+- ![purple](/images/colours/purple.png) purple `7`
+- ![grey](/images/colours/grey.png) grey `8`
+- ![white](/images/colours/white.png) white `9`
 
 ## The Multicore
 
@@ -25,4 +25,4 @@ The mutlicore tails use two colours, one on the XLR boot, the other on the XLR r
 
 The boot is the first digit, the ring the second.
 
-For instance ![#000000](https://placehold.it/15/000000/000000?text=+) ![#0000ff](https://placehold.it/15/0000ff/000000?text=+) would be channel 6, and ![#ff0000](https://placehold.it/15/ff0000/000000?text=+) ![#ffff00](https://placehold.it/15/ffff00/000000?text=+) would be channel 24.
+For instance ![black](/images/colours/black.png) ![blue](/images/colours/blue.png) would be channel 6, and ![red](/images/colours/red.png) ![yellow](/images/colours/yellow.png) would be channel 24.
